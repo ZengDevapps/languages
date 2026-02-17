@@ -1,0 +1,187 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NextDnsUI 3.21.3\n"
+"PO-Revision-Date: 2026-02-17 18:00 UTC\n"
+"Last-Translator: david <contact@zengdev.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Notif.form:28
+msgid "...message"
+msgstr "...message"
+
+#: Fmain.form:101
+msgid "0MB"
+msgstr "0MB"
+
+#: Fmain.form:108
+msgid "0s"
+msgstr "0s"
+
+#: Fmain.form:108
+msgid "5s"
+msgstr "5s"
+
+#: Fmain.form:101
+msgid "10MB"
+msgstr "10MB"
+
+#: Fmain.form:108
+msgid "10s"
+msgstr "10s"
+
+#: Fmain.form:101
+msgid "15MB"
+msgstr "15MB"
+
+#: Fmain.form:108
+msgid "15s"
+msgstr "15s"
+
+#: Fmain.form:101
+msgid "20MB"
+msgstr "20MB"
+
+#: Fmain.form:108
+msgid "20s"
+msgstr "20s"
+
+#: Fmain.form:101
+msgid "25MB"
+msgstr "25MB"
+
+#: Fmain.form:101
+msgid "30MB"
+msgstr "30MB"
+
+#: Fmain.form:157 Start.form:39
+msgid "About"
+msgstr "À propos"
+
+#: Fmain.form:94
+msgid " Automatic Cache Invalidation"
+msgstr "  Invalidation automatique du cache"
+
+#: Fmain.form:137
+msgid "Black"
+msgstr "Black"
+
+#: Fmain.form:89
+msgid " Cache Configuration"
+msgstr " Configuration du cache"
+
+#: Fmain.form:137
+msgid "Color"
+msgstr "Color"
+
+#: Fmain.form:79
+msgid "Configuration"
+msgstr "Configuration"
+
+#: Fmain.form:117
+msgid "Configuration ID"
+msgstr "Configuration ID"
+
+#: Fmain.form:43
+msgid "General"
+msgstr "Général"
+
+#: Notif.form:63
+msgid "Hide"
+msgstr "Cacher"
+
+#: Fmain.form:188
+msgid "https://nextdns.io"
+msgstr "https://nextdns.io"
+
+#: Fmain.form:197
+msgid "https://zengdev.com"
+msgstr "https://zengdev.com"
+
+#: Fmain.form:154
+msgid " Launch at startup"
+msgstr " Lancer au démarrage"
+
+#: Fmain.form:137
+msgid "Lite"
+msgstr ""
+
+#: Start.form:24
+msgid "Menu1"
+msgstr "Menu1"
+
+#: Fmain.form:128 Start.form:48
+msgid "NextDNS"
+msgstr "NextDNS"
+
+#: Start.form:35
+msgid "NextDNS Configuration"
+msgstr ""
+
+#: Fmain.class:54 Notif.form:36 PopUp.class:23
+msgid "NextDns is not running"
+msgstr "NextDns n'est pas en cours d'exécution"
+
+#: Fmain.class:50 PopUp.class:20
+msgid "NextDns is running"
+msgstr "NextDns est en cours d'exécution"
+
+#: .project:1 Fmain.form:148 Start.form:14
+msgid "NextDNS UI"
+msgstr "NextDNS UI"
+
+#: .project:2
+msgid "NextDNS UI for Nextdns"
+msgstr "NextDNS UI for Nextdns"
+
+#: Start.form:43
+msgid "Quit"
+msgstr "Quitter"
+
+#: Fmain.form:84
+msgid " Report device name"
+msgstr " Envoyer le nom de l'appareil"
+
+#: Fmain.form:75
+msgid "Restart"
+msgstr "Redémarrer"
+
+#: Fmain.form:70 PopUp.form:35
+msgid "Satus"
+msgstr "Satut"
+
+#: Fmain.form:122
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: Fmain.form:34 Notif.form:54 PopUp.form:47 Start.form:31
+msgid "Settings"
+msgstr "Paramètres"
+
+#: Start.form:27
+msgid "Show state"
+msgstr ""
+
+#: Fmain.form:47
+msgid "Start"
+msgstr "Démarrer"
+
+#: Fmain.form:53
+msgid "Stop"
+msgstr "Arrêter"
+
+#: Start.class:62
+msgid "This action does not disable NextDNS, but only closes the user interface.\n\nTo disable NextDNS, use the menu in the settings."
+msgstr "Cette action ne désactive pas NextDNS, mais ferme uniquement l'interface utilisateur.\n\nPour désactiver NextDNS, utilisez le menu dans les paramètres."
+
+#: Fmain.form:142
+msgid "Tray icon style"
+msgstr "Style d'icône de la barre d'état"
+
+#: Fmain.form:173
+msgid "Version"
+msgstr "Version"
+
