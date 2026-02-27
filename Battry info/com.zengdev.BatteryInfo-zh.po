@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.zengdev.BatteryInfo 3.21.3\n"
+"PO-Revision-Date: 2026-02-27 08:23 UTC\n"
+"Last-Translator: david <contact@zengdev.com>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# gb-ignore
+#: FOptions.class:33
+msgid "%"
+msgstr ""
+
+# gb-ignore
+#: FAbout.form:55
+msgid "1.0.0"
+msgstr ""
+
+# gb-ignore
+#: FOptions.form:35
+msgid "20%"
+msgstr ""
+
+# gb-ignore
+#: FOptions.form:49
+msgid "80%"
+msgstr ""
+
+#: FMain.form:738
+msgid "About"
+msgstr "关于"
+
+#: FOptions.form:40
+msgid "Add alert when battery is at"
+msgstr ""
+
+#: FMain.class:201
+msgid "Battery global level : "
+msgstr "电池全球水平： "
+
+#: .project:1
+msgid "Battery info"
+msgstr "电池信息"
+
+#: FAbout.form:42 FMain.form:754 FOptions.form:19
+msgid "Battery Info"
+msgstr "电池信息"
+
+# gb-ignore
+#: FMain.form:114
+msgid "Battery Info by Zeng"
+msgstr ""
+
+#: FMain.form:299
+msgid "Battery level"
+msgstr "电池电量"
+
+#: FOptions.form:77
+msgid "Battery notifications"
+msgstr "电池通知"
+
+#: FAbout.form:121
+msgid "Changelog"
+msgstr "变更日志"
+
+#: FMain.form:342
+msgid "Charging status"
+msgstr "充电状态"
+
+#: FMain.form:364
+msgid "Current charge"
+msgstr "当前电量"
+
+#: FMain.form:241
+msgid "Current voltage"
+msgstr "当前电压"
+
+#: FMain.form:369
+msgid "Cycle count"
+msgstr "周期计数"
+
+#: FAbout.form:62
+msgid "Description"
+msgstr "描述"
+
+#: FMain.form:767
+msgid "Displays the overall battery level in a system with two physical batteries (e.g., Lenovo laptop)."
+msgstr "显示具有两个物理电池的系统（例如联想笔记本电脑）的总体电池电量。"
+
+#: FMain.form:230
+msgid "Energy metrics"
+msgstr "能源指标"
+
+#: FMain.form:154
+msgid "General information"
+msgstr "一般信息"
+
+#: FMain.form:406
+msgid "Health evaluation"
+msgstr "健康评估"
+
+# gb-ignore
+#: PopUp.form:44
+msgid "Hide"
+msgstr ""
+
+# gb-ignore
+#: FAbout.form:107
+msgid "https://zengdev.com"
+msgstr ""
+
+#: FMain.form:253
+msgid "Maximum capacity"
+msgstr "最大容量"
+
+#: FMain.form:265
+msgid "Maximum rated capacity"
+msgstr "最大额定容量"
+
+# gb-ignore
+#: FMain.form:120
+msgid "Menu1"
+msgstr ""
+
+#: FMain.form:198
+msgid "Model name"
+msgstr "型号名称"
+
+#: FMain.form:159
+msgid "Native path"
+msgstr "本机路径"
+
+#: FMain.form:128
+msgid "Quit"
+msgstr "辞职"
+
+#: FMain.form:732
+msgid "Refresh"
+msgstr "刷新"
+
+#: FMain.form:277
+msgid "Remaining energy"
+msgstr "剩余能量"
+
+#: FMain.form:395
+msgid "Sate of health"
+msgstr "健康状况"
+
+#: FMain.form:209
+msgid "Serial number"
+msgstr "序列号"
+
+#: FMain.form:124
+msgid "Show Battery Info"
+msgstr "显示电池信息"
+
+#: FOptions.form:88
+msgid "Sound notification"
+msgstr "声音通知"
+
+#: FMain.form:374
+msgid "State"
+msgstr "状态"
+
+# gb-ignore
+#: FMain.form:141
+msgid "Tab1"
+msgstr ""
+
+# gb-ignore
+#: FMain.form:435
+msgid "Tab2"
+msgstr ""
+
+#: FMain.form:187
+msgid "Technology"
+msgstr "技术"
+
+#: FMain.class:135
+msgid "The device has experienced a significant drop in capacity. Mobility can be more difficult due to a decrease in runtime. Depending on usage habits, replacement may be necessary in the future."
+msgstr "该设备的容量大幅下降。由于运行时间的减少，移动性可能会更加困难。根据使用习惯，将来可能需要更换。"
+
+#: FMain.class:131
+msgid "The device has lost some capacity, but it should not be of much concern. Continue to take precautions regarding your power device like limiting its charge and using power-saving settings."
+msgstr "该设备已损失一些容量，但不必太担心。继续对您的电源设备采取预防措施，例如限制其充电和使用省电设置。"
+
+#: FMain.class:133
+msgid "The device has noticeably degraded in capacity, but is still usable. Runtime may be shorter than at its original capacity. Use power-optimizing settings to extend longevity and slow down degradation."
+msgstr "该设备的容量明显下降，但仍然可用。运行时间可能比其原始容量短。使用功率优化设置来延长使用寿命并减缓性能下降。"
+
+#: FMain.class:137
+msgid "The device has undergone substantial deterioration. Power instability and potential overheating can damage other components. Replace the device to avoid further damage."
+msgstr "该设备已严重损坏。电源不稳定和潜在的过热可能会损坏其他组件。更换设备以避免进一步损坏。"
+
+#: FMain.class:127
+msgid "The device is near or at its maximum rated capacity. It is in excellent condition and should not require much intervention."
+msgstr "设备接近或达到其最大额定容量。它状况良好，不需要太多干预。"
+
+#: FMain.class:129
+msgid "The device performs close to its original capacity. There is little noticeable difference from its optimal state."
+msgstr "该设备的性能接近其原始容量。与其最佳状态几乎没有明显差异。"
+
+#: .project:2 FAbout.form:68
+msgid "This app is designed for monitoring the health and status of your computer battery (battery capacity, energy metrics, and device information)\nSpecially developed for Deepin 25."
+msgstr "此应用程序旨在监控计算机电池的健康状况和状态（电池容量、能源指标和设备信息）↵\n专为Deepin 25开发。"
+
+#: FMain.form:176
+msgid "Vendor / Manufacturer"
+msgstr "供应商/制造商"
+
+#: FAbout.form:49
+msgid "Version"
+msgstr "版本"
+
+# gb-ignore
+#: FMain.class:116
+msgid " Wh"
+msgstr ""
+
+#: Daemon.module:41
+msgid "You can plug in the charger to recharge the battery."
+msgstr "您可以插入充电器为电池充电。"
+
+#: Daemon.module:71
+msgid "You can remove the charger to preserve the battery."
+msgstr "您可以取下充电器以保护电池。"
+
