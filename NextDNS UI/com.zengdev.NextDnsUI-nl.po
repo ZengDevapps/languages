@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.zengdev.NextDnsUI 3.21.3\n"
+"PO-Revision-Date: 2026-02-27 08:17 UTC\n"
+"Last-Translator: david <contact@zengdev.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Notif.form:28
+msgid "...message"
+msgstr "...bericht"
+
+# gb-ignore
+#: Fmain.form:108
+msgid "0MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "0s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "5s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "10MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "10s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "15MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "15s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "20MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "20s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "25MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "30MB"
+msgstr ""
+
+#: Fmain.form:180 Start.form:52
+msgid "About"
+msgstr "Over"
+
+#: Fmain.form:101
+msgid " Automatic Cache Invalidation"
+msgstr "Automatische cache-invalidatie"
+
+#: Fmain.form:155
+msgid "Black"
+msgstr "Zwart"
+
+#: Fmain.form:96
+msgid " Cache Configuration"
+msgstr " Cacheconfiguratie"
+
+#: Fmain.form:155
+msgid "Color"
+msgstr "Kleur"
+
+#: Fmain.form:92
+msgid "Configuration"
+msgstr "Configuratie"
+
+#: Fmain.form:124
+msgid "Configuration ID"
+msgstr "Configuratie-ID"
+
+#: Fmain.form:48
+msgid "General"
+msgstr "Algemeen"
+
+#: Notif.form:63
+msgid "Hide"
+msgstr "Verbergen"
+
+# gb-ignore
+#: Fmain.form:212
+msgid "https://nextdns.io"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:221
+msgid "https://zengdev.com"
+msgstr ""
+
+#: Fmain.form:177
+msgid "Launch at startup"
+msgstr "Start bij het opstarten"
+
+#: Fmain.form:155
+msgid "Lite"
+msgstr "Lite"
+
+# gb-ignore
+#: Start.form:27
+msgid "Menu1"
+msgstr ""
+
+#: Fmain.form:135 Start.form:61
+msgid "NextDNS"
+msgstr "VolgendeDNS"
+
+#: Fmain.form:38
+msgid "NextDNS by Zeng"
+msgstr "VolgendeDNS door Zeng"
+
+#: FWeb.form:8
+msgid "NextDNS by Zeng - Web settings"
+msgstr "NextDNS door Zeng - Webinstellingen"
+
+#: Start.form:38
+msgid "NextDNS Configuration"
+msgstr "VolgendeDNS-configuratie"
+
+#: Fmain.class:71 Notif.form:36 PopUp.class:23
+msgid "NextDns is not running"
+msgstr "NextDns is niet actief"
+
+#: Fmain.class:66 PopUp.class:20
+msgid "NextDns is running"
+msgstr "NextDns is actief"
+
+#: .project:1 Fmain.form:166 Start.form:17
+msgid "NextDNS UI"
+msgstr "VolgendeDNS-gebruikersinterface"
+
+#: .project:2
+msgid "NextDNS UI for Nextdns"
+msgstr "NextDNS-gebruikersinterface voor Nextdns"
+
+#: Fmain.form:81
+msgid "NextDNS web"
+msgstr "VolgendeDNS-web"
+
+#: Start.form:45
+msgid "NextDNS web configuration"
+msgstr "VolgendeDNS-webconfiguratie"
+
+#: Start.form:56
+msgid "Quit"
+msgstr "Ontslag nemen"
+
+#: Fmain.form:146
+msgid " Report device name"
+msgstr " Apparaatnaam melden"
+
+#: Fmain.form:70
+msgid "Restart"
+msgstr "Opnieuw opstarten"
+
+#: Fmain.form:65 PopUp.form:35
+msgid "Satus"
+msgstr "Sat"
+
+#: Fmain.form:129
+msgid "Save"
+msgstr "Redden"
+
+#: Fmain.form:149 Notif.form:54 PopUp.form:47 Start.form:34
+msgid "Settings"
+msgstr "Instellingen"
+
+#: Start.form:30
+msgid "Show state"
+msgstr "Toon staat"
+
+#: Start.class:67
+msgid "This action does not disable NextDNS, but only closes the user interface.\n\nTo disable NextDNS, use the menu in the settings."
+msgstr "Deze actie schakelt NextDNS niet uit, maar sluit alleen de gebruikersinterface.↵\n↵\nOm NextDNS uit te schakelen, gebruikt u het menu in de instellingen."
+
+#: Fmain.form:160
+msgid "Tray icon style"
+msgstr "Pictogramstijl voor lade"
+
+#: Fmain.form:197
+msgid "Version"
+msgstr "Versie"
+

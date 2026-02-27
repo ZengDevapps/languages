@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.zengdev.NextDnsUI 3.21.3\n"
+"PO-Revision-Date: 2026-02-27 08:17 UTC\n"
+"Last-Translator: david <contact@zengdev.com>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Notif.form:28
+msgid "...message"
+msgstr "...信息"
+
+# gb-ignore
+#: Fmain.form:108
+msgid "0MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "0s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "5s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "10MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "10s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "15MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "15s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "20MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:115
+msgid "20s"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "25MB"
+msgstr ""
+
+# gb-ignore
+#: Fmain.form:108
+msgid "30MB"
+msgstr ""
+
+#: Fmain.form:180 Start.form:52
+msgid "About"
+msgstr "关于"
+
+#: Fmain.form:101
+msgid " Automatic Cache Invalidation"
+msgstr " 自动缓存失效"
+
+#: Fmain.form:155
+msgid "Black"
+msgstr "Black"
+
+#: Fmain.form:96
+msgid " Cache Configuration"
+msgstr " 缓存配置"
+
+#: Fmain.form:155
+msgid "Color"
+msgstr "Color"
+
+#: Fmain.form:92
+msgid "Configuration"
+msgstr "配置"
+
+#: Fmain.form:124
+msgid "Configuration ID"
+msgstr "配置 ID"
+
+#: Fmain.form:48
+msgid "General"
+msgstr "一般的"
+
+#: Notif.form:63
+msgid "Hide"
+msgstr "隐藏"
+
+#: Fmain.form:212
+msgid "https://nextdns.io"
+msgstr "https://nextdns.io"
+
+#: Fmain.form:221
+msgid "https://zengdev.com"
+msgstr "https://zengdev.com"
+
+#: Fmain.form:177
+msgid "Launch at startup"
+msgstr "启动时启动"
+
+# gb-ignore
+#: Fmain.form:155
+msgid "Lite"
+msgstr ""
+
+#: Start.form:27
+msgid "Menu1"
+msgstr "Menu1"
+
+#: Fmain.form:135 Start.form:61
+msgid "NextDNS"
+msgstr "NextDNS"
+
+# gb-ignore
+#: Fmain.form:38
+msgid "NextDNS by Zeng"
+msgstr ""
+
+#: FWeb.form:8
+msgid "NextDNS by Zeng - Web settings"
+msgstr "NextDNS by Zeng - 网页设置"
+
+#: Start.form:38
+msgid "NextDNS Configuration"
+msgstr "下一个DNS配置"
+
+#: Fmain.class:71 Notif.form:36 PopUp.class:23
+msgid "NextDns is not running"
+msgstr "NextDNS 未运行"
+
+#: Fmain.class:66 PopUp.class:20
+msgid "NextDns is running"
+msgstr "NextDNS正在运行"
+
+#: .project:1 Fmain.form:166 Start.form:17
+msgid "NextDNS UI"
+msgstr "NextDNS UI"
+
+#: .project:2
+msgid "NextDNS UI for Nextdns"
+msgstr "NextDNS UI for Nextdns"
+
+# gb-ignore
+#: Fmain.form:81
+msgid "NextDNS web"
+msgstr ""
+
+#: Start.form:45
+msgid "NextDNS web configuration"
+msgstr "NextDNS网页配置"
+
+#: Start.form:56
+msgid "Quit"
+msgstr "辞职"
+
+#: Fmain.form:146
+msgid " Report device name"
+msgstr " 报告设备名称"
+
+#: Fmain.form:70
+msgid "Restart"
+msgstr "重启"
+
+#: Fmain.form:65 PopUp.form:35
+msgid "Satus"
+msgstr "状态"
+
+#: Fmain.form:129
+msgid "Save"
+msgstr "节省"
+
+#: Fmain.form:149 Notif.form:54 PopUp.form:47 Start.form:34
+msgid "Settings"
+msgstr "设置"
+
+#: Start.form:30
+msgid "Show state"
+msgstr "显示状态"
+
+#: Start.class:67
+msgid "This action does not disable NextDNS, but only closes the user interface.\n\nTo disable NextDNS, use the menu in the settings."
+msgstr "此操作不会禁用 NextDNS，只会关闭用户界面。\n\n要禁用 NextDNS，请使用设置中的菜单。"
+
+#: Fmain.form:160
+msgid "Tray icon style"
+msgstr "托盘图标样式"
+
+#: Fmain.form:197
+msgid "Version"
+msgstr "版本"
+
