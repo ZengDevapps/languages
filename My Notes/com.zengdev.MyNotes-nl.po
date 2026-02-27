@@ -1,0 +1,393 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.zengdev.MyNotes 3.21.3\n"
+"PO-Revision-Date: 2026-02-27 08:29 UTC\n"
+"Last-Translator: david <contact@zengdev.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# gb-ignore
+#: FMain.form:568
+msgid "#"
+msgstr ""
+
+# gb-ignore
+#: FMain.form:232
+msgid "+"
+msgstr ""
+
+# gb-ignore
+#: frmAbout.form:54
+msgid "1.0.0"
+msgstr ""
+
+#: FMain.class:382
+msgid "<b>Pandoc</b> must be installed to perform this action."
+msgstr "<b>Pandoc</b> moet geïnstalleerd zijn om deze actie uit te voeren."
+
+#: FMain.form:169
+msgid "About"
+msgstr "Over"
+
+#: FMain.form:227 Widget2.form:94
+msgid "Add note"
+msgstr "Notitie toevoegen"
+
+#: FMain.form:559
+msgid "Add your tags separated by a comma ( , )"
+msgstr "Voeg uw tags toe, gescheiden door een komma ( , )"
+
+#: FollowMe.form:80
+msgid "BlueSky"
+msgstr "Blauwe Hemel"
+
+#: AskPWD.form:58 FMain.form:405 Protect.form:57 UnProtect.form:56
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: Reglages.form:110
+msgid "Clean database"
+msgstr "Schone database"
+
+#: FMain.form:491
+msgid "Click and move the utility bar"
+msgstr "Klik en verplaats de hulpprogrammabalk"
+
+#: FMain.form:345
+msgid "Click to restore the toolbar position"
+msgstr "Klik om de werkbalkpositie te herstellen"
+
+#: Widget2.form:102
+msgid "Close My Notes"
+msgstr "Sluit Mijn notities"
+
+#: FMain.form:253
+msgid "Contenu"
+msgstr "Contenu"
+
+#: FMain.form:114
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: FMain.class:66
+msgid "Create a new note or select a note"
+msgstr "Maak een nieuwe notitie of selecteer een notitie"
+
+#: FMain.class:596
+msgid "Create a new note or select one"
+msgstr "Maak een nieuwe notitie of selecteer er een"
+
+#: FMain.form:542
+msgid "Created on :"
+msgstr "Gemaakt op:"
+
+#: FMain.class:120
+msgid "Created on : "
+msgstr "Gemaakt op:"
+
+#: FMain.form:109
+msgid "Cut"
+msgstr "Snee"
+
+#: FMain.form:158
+msgid "Data base"
+msgstr "Databank"
+
+#: FMain.class:332 Reglages.class:36
+msgid "Database cleaning"
+msgstr "Database opschonen"
+
+#: FMain.form:241
+msgid "Date"
+msgstr "Datum"
+
+#: FMain.form:531
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: FMain.class:260
+msgid "Delete note"
+msgstr "Notitie verwijderen"
+
+#: FMain.class:267
+msgid "Delete this note ?"
+msgstr "Deze notitie verwijderen?"
+
+#: frmAbout.form:61
+msgid "Description"
+msgstr "Beschrijving"
+
+#: mExportar.module:23
+msgid "Done !"
+msgstr "Klaar !"
+
+#: FMain.form:515
+msgid "Edit"
+msgstr "Bewerking"
+
+#: AskPWD.form:53 UnProtect.form:51
+msgid "Enter"
+msgstr "Binnenkomen"
+
+#: mExportar.module:89
+msgid "Error !"
+msgstr "Fout!"
+
+#: FMain.form:132
+msgid "Export as"
+msgstr "Exporteren als"
+
+#: mExportar.module:7
+msgid "Export file as..."
+msgstr "Bestand exporteren als..."
+
+#: FollowMe.form:42
+msgid "Follow me"
+msgstr "Volg mij"
+
+#: FollowMe.form:106
+msgid "Follow Me"
+msgstr "Volg mij"
+
+#: FMain.class:835
+msgid " found"
+msgstr "Gevonden"
+
+#: FMain.form:151
+msgid "HTML"
+msgstr "HTML"
+
+# gb-ignore
+#: FollowMe.form:127 frmAbout.form:108
+msgid "https://zengdev.com"
+msgstr ""
+
+#: Reglages.form:118
+msgid "Keep your database clean and in optimal condition."
+msgstr "Houd uw database schoon en in optimale staat."
+
+#: Reglages.form:75
+msgid "  Launch on startup"
+msgstr " Start bij opstarten"
+
+# gb-ignore
+#: FMain.form:146
+msgid "Markdown (*.md)"
+msgstr ""
+
+# gb-ignore
+#: FollowMe.form:89
+msgid "Mastodon"
+msgstr ""
+
+# gb-ignore
+#: FMain.form:88
+msgid "Menu"
+msgstr ""
+
+# gb-ignore
+#: Widget2.form:30
+msgid "Menu1"
+msgstr ""
+
+#: FMain.form:552
+msgid "Modified on :"
+msgstr "Gewijzigd op :"
+
+#: FMain.class:121
+msgid "Modified on : "
+msgstr "Gewijzigd op :"
+
+#: .project:1 AskPWD.form:89 frmAbout.form:40
+msgid "My Notes"
+msgstr "Mijn notities"
+
+#: FMain.class:381
+msgid "My Notes - Export"
+msgstr "Mijn notities - Exporteren"
+
+#: FMain.class:415
+msgid "My Notes - Information"
+msgstr "Mijn notities - Informatie"
+
+#: FMain.class:778
+msgid "My Notes - Search"
+msgstr "Mijn notities - Zoeken"
+
+#: Widget2.form:18
+msgid "My Notes - Widget"
+msgstr "Mijn notities - Widget"
+
+#: Reglages.form:67
+msgid "  My Notes is hidden at startup"
+msgstr " Mijn notities zijn verborgen bij het opstarten"
+
+#: frmAbout.form:68
+msgid "My Notes offering note-taking features for organizing and managing your ideas. Specially developed for Deepin 25."
+msgstr "Mijn notities biedt functies voor het maken van notities voor het organiseren en beheren van uw ideeën. Speciaal ontwikkeld voor Deepin 25."
+
+#: .project:2
+msgid "My Notes offering note-taking features for organizing and managing your ideas effectively"
+msgstr "Mijn notities biedt functies voor het maken van notities waarmee u uw ideeën effectief kunt organiseren en beheren"
+
+#: FMain.form:97 Widget2.form:34
+msgid "New note"
+msgstr "Nieuwe notitie"
+
+#: FMain.class:267
+msgid "No"
+msgstr "Nee"
+
+#: FMain.class:826
+msgid "No results found"
+msgstr "Geen resultaten gevonden"
+
+#: FMain.form:91 Widget2.form:39
+msgid "Open My Notes"
+msgstr "Open Mijn notities"
+
+#: Protect.class:34
+msgid "Passwords do not match !"
+msgstr "Wachtwoorden komen niet overeen!"
+
+#: FMain.form:119
+msgid "Paste"
+msgstr "Plakken"
+
+#: AskPWD.form:48 UnProtect.form:46
+msgid "Please enter your password"
+msgstr "Voer uw wachtwoord in"
+
+#: Reglages.form:124
+msgid "Protect access with a password"
+msgstr "Beveilig de toegang met een wachtwoord"
+
+#: Reglages.form:51
+msgid "Quick access"
+msgstr "Snelle toegang"
+
+#: Reglages.form:59
+msgid "Quicly add a note or access them from your screen."
+msgstr "Voeg snel een notitie toe of open deze vanaf uw scherm."
+
+#: FMain.form:101
+msgid "Quit"
+msgstr "Ontslag nemen"
+
+#: FMain.form:353
+msgid "Refresh note list"
+msgstr "Vernieuw de notitielijst"
+
+#: FMain.form:499 Protect.form:52
+msgid "Save"
+msgstr "Redden"
+
+#: FMain.form:124
+msgid "Select all"
+msgstr "Selecteer alles"
+
+#: FMain.form:601
+msgid "Send by email"
+msgstr "Verzenden per e-mail"
+
+#: Protect.form:47
+msgid "Set your password"
+msgstr "Stel uw wachtwoord in"
+
+#: Donate.form:40
+msgid "Support me to offer free programs for Deepin Linux"
+msgstr "Steun mij om gratis programma's voor Deepin Linux aan te bieden"
+
+#: FMain.form:260
+msgid "Tags"
+msgstr "Labels"
+
+#: FollowMe.form:116
+msgid "Telegram"
+msgstr "Telegram"
+
+# gb-ignore
+#: FMain.form:136
+msgid "Texte (*.txt)"
+msgstr ""
+
+#: FMain.class:337 Reglages.class:41
+msgid "The database has been cleaned up."
+msgstr "De database is opgeschoond."
+
+#: FMain.class:262
+msgid "The entry to be deleted must first be selected."
+msgstr "Eerst moet de te verwijderen vermelding worden geselecteerd."
+
+#: Protect.class:25
+msgid "The password has been successfully saved."
+msgstr "Het wachtwoord is succesvol opgeslagen."
+
+#: FMain.form:247
+msgid "Title"
+msgstr "Titel"
+
+#: FMain.form:106
+msgid "Tools"
+msgstr "Hulpmiddelen"
+
+#: FMain.form:161
+msgid "Vacuum"
+msgstr "Vacuüm"
+
+#: frmAbout.form:47
+msgid "Version"
+msgstr "Versie"
+
+#: FMain.form:172
+msgid "Website"
+msgstr "Website"
+
+# gb-ignore
+#: FMain.form:141
+msgid "Word (*.docx)"
+msgstr ""
+
+#: FMain.class:201
+msgid "Write your note here..."
+msgstr "Schrijf hier uw opmerking..."
+
+#: AskPWD.class:25 UnProtect.class:29
+msgid "Wrong password !"
+msgstr "Verkeerd wachtwoord!"
+
+#: FollowMe.form:71
+msgid "X"
+msgstr "X"
+
+#: FMain.class:267
+msgid "Yes"
+msgstr "Ja"
+
+#: FMain.class:779
+msgid "You must enter a field to search for."
+msgstr "U moet een veld invoeren om naar te zoeken."
+
+#: FMain.class:352
+msgid "You must first select an entry."
+msgstr "U moet eerst een item selecteren."
+
+#: FMain.class:410
+msgid "You must first select an entry.."
+msgstr "U moet eerst een item selecteren."
+
+#: FMain.class:416
+msgid "You must have the <b>pandoc</b> program installed to perform this action.."
+msgstr "U moet het programma <b>pandoc</b> geïnstalleerd hebben om deze actie uit te voeren."
+
+#: FMain.class:145
+msgid "You must select an entry first."
+msgstr "U moet eerst een item selecteren."
+
+#: FMain.class:198
+msgid "Your title here..."
+msgstr "Jouw titel hier..."
+

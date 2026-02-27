@@ -1,0 +1,388 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.zengdev.MyNotes 3.21.3\n"
+"PO-Revision-Date: 2026-02-27 08:33 UTC\n"
+"Last-Translator: david <contact@zengdev.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: FMain.form:568
+msgid "#"
+msgstr "#"
+
+#: FMain.form:232
+msgid "+"
+msgstr "+"
+
+#: frmAbout.form:54
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: FMain.class:382
+msgid "<b>Pandoc</b> must be installed to perform this action."
+msgstr "Um diese Aktion ausführen zu können, muss <b>Pandoc</b> installiert sein."
+
+#: FMain.form:169
+msgid "About"
+msgstr "Um"
+
+#: FMain.form:227 Widget2.form:94
+msgid "Add note"
+msgstr "Notiz hinzufügen"
+
+#: FMain.form:559
+msgid "Add your tags separated by a comma ( , )"
+msgstr "Fügen Sie Ihre Tags durch ein Komma (,) getrennt hinzu."
+
+#: FollowMe.form:80
+msgid "BlueSky"
+msgstr "BlueSky"
+
+#: AskPWD.form:58 FMain.form:405 Protect.form:57 UnProtect.form:56
+msgid "Cancel"
+msgstr "Stornieren"
+
+#: Reglages.form:110
+msgid "Clean database"
+msgstr "Bereinigen Sie die Datenbank"
+
+#: FMain.form:491
+msgid "Click and move the utility bar"
+msgstr "Klicken Sie auf die Dienstprogrammleiste und verschieben Sie sie"
+
+#: FMain.form:345
+msgid "Click to restore the toolbar position"
+msgstr "Klicken Sie, um die Position der Symbolleiste wiederherzustellen"
+
+#: Widget2.form:102
+msgid "Close My Notes"
+msgstr "Schließen Sie „Meine Notizen“."
+
+#: FMain.form:253
+msgid "Contenu"
+msgstr "Inhalt"
+
+#: FMain.form:114
+msgid "Copy"
+msgstr "Kopie"
+
+#: FMain.class:66
+msgid "Create a new note or select a note"
+msgstr "Erstellen Sie eine neue Notiz oder wählen Sie eine Notiz aus"
+
+#: FMain.class:596
+msgid "Create a new note or select one"
+msgstr "Erstellen Sie eine neue Notiz oder wählen Sie eine aus"
+
+#: FMain.class:120
+msgid "Created on : "
+msgstr "Erstellt am:"
+
+#: FMain.form:542
+msgid "Created on :"
+msgstr "Erstellt am:"
+
+#: FMain.form:109
+msgid "Cut"
+msgstr "Schneiden"
+
+#: FMain.form:158
+msgid "Data base"
+msgstr "Datenbank"
+
+#: FMain.class:332 Reglages.class:36
+msgid "Database cleaning"
+msgstr "Datenbankbereinigung"
+
+#: FMain.form:241
+msgid "Date"
+msgstr "Datum"
+
+#: FMain.form:531
+msgid "Delete"
+msgstr "Löschen"
+
+#: FMain.class:260
+msgid "Delete note"
+msgstr "Notiz löschen"
+
+#: FMain.class:267
+msgid "Delete this note ?"
+msgstr "Diese Notiz löschen?"
+
+#: frmAbout.form:61
+msgid "Description"
+msgstr "Beschreibung"
+
+#: mExportar.module:23
+msgid "Done !"
+msgstr "Erledigt !"
+
+#: FMain.form:515
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: AskPWD.form:53 UnProtect.form:51
+msgid "Enter"
+msgstr "Eingeben"
+
+#: mExportar.module:89
+msgid "Error !"
+msgstr "Fehler !"
+
+#: FMain.form:132
+msgid "Export as"
+msgstr "Exportieren als"
+
+#: mExportar.module:7
+msgid "Export file as..."
+msgstr "Datei exportieren als..."
+
+#: FollowMe.form:42
+msgid "Follow me"
+msgstr "Folgen Sie mir"
+
+#: FollowMe.form:106
+msgid "Follow Me"
+msgstr "Folgen Sie mir"
+
+#: FMain.class:835
+msgid " found"
+msgstr " Gefunden"
+
+#: FMain.form:151
+msgid "HTML"
+msgstr "HTML"
+
+# gb-ignore
+#: FollowMe.form:127 frmAbout.form:108
+msgid "https://zengdev.com"
+msgstr ""
+
+#: Reglages.form:118
+msgid "Keep your database clean and in optimal condition."
+msgstr "Halten Sie Ihre Datenbank sauber und in optimalem Zustand."
+
+#: Reglages.form:75
+msgid "  Launch on startup"
+msgstr " Beim Start starten"
+
+# gb-ignore
+#: FMain.form:146
+msgid "Markdown (*.md)"
+msgstr ""
+
+# gb-ignore
+#: FollowMe.form:89
+msgid "Mastodon"
+msgstr ""
+
+#: FMain.form:88
+msgid "Menu"
+msgstr "Speisekarte"
+
+# gb-ignore
+#: Widget2.form:30
+msgid "Menu1"
+msgstr ""
+
+#: FMain.class:121
+msgid "Modified on : "
+msgstr "Geändert am:"
+
+#: FMain.form:552
+msgid "Modified on :"
+msgstr "Geändert am:"
+
+#: .project:1 AskPWD.form:89 frmAbout.form:40
+msgid "My Notes"
+msgstr "Meine Notizen"
+
+#: FMain.class:381
+msgid "My Notes - Export"
+msgstr "Meine Notizen – Exportieren"
+
+#: FMain.class:415
+msgid "My Notes - Information"
+msgstr "Meine Notizen – Informationen"
+
+#: FMain.class:778
+msgid "My Notes - Search"
+msgstr "Meine Notizen – Suche"
+
+#: Widget2.form:18
+msgid "My Notes - Widget"
+msgstr "Meine Notizen – Widget"
+
+#: Reglages.form:67
+msgid "  My Notes is hidden at startup"
+msgstr " Meine Notizen werden beim Start ausgeblendet"
+
+#: frmAbout.form:68
+msgid "My Notes offering note-taking features for organizing and managing your ideas. Specially developed for Deepin 25."
+msgstr "My Notes bietet Funktionen zum Erstellen von Notizen, um Ihre Ideen zu organisieren und zu verwalten. Speziell für Deepin 25 entwickelt."
+
+#: .project:2
+msgid "My Notes offering note-taking features for organizing and managing your ideas effectively"
+msgstr "My Notes bietet Notizfunktionen zum effektiven Organisieren und Verwalten Ihrer Ideen."
+
+#: FMain.form:97 Widget2.form:34
+msgid "New note"
+msgstr "Neuer Hinweis"
+
+#: FMain.class:267
+msgid "No"
+msgstr "NEIN"
+
+#: FMain.class:826
+msgid "No results found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: FMain.form:91 Widget2.form:39
+msgid "Open My Notes"
+msgstr "Meine Notizen öffnen"
+
+#: Protect.class:34
+msgid "Passwords do not match !"
+msgstr "Passwörter stimmen nicht überein!"
+
+#: FMain.form:119
+msgid "Paste"
+msgstr "Paste"
+
+#: AskPWD.form:48 UnProtect.form:46
+msgid "Please enter your password"
+msgstr "Bitte geben Sie Ihr Passwort ein"
+
+#: Reglages.form:124
+msgid "Protect access with a password"
+msgstr "Schützen Sie den Zugang mit einem Passwort"
+
+#: Reglages.form:51
+msgid "Quick access"
+msgstr "Schneller Zugriff"
+
+#: Reglages.form:59
+msgid "Quicly add a note or access them from your screen."
+msgstr "Fügen Sie schnell eine Notiz hinzu oder greifen Sie über Ihren Bildschirm darauf zu."
+
+#: FMain.form:101
+msgid "Quit"
+msgstr "Aufhören"
+
+#: FMain.form:353
+msgid "Refresh note list"
+msgstr "Notizliste aktualisieren"
+
+#: FMain.form:499 Protect.form:52
+msgid "Save"
+msgstr "Speichern"
+
+#: FMain.form:124
+msgid "Select all"
+msgstr "Alles auswählen"
+
+#: FMain.form:601
+msgid "Send by email"
+msgstr "Per E-Mail versenden"
+
+#: Protect.form:47
+msgid "Set your password"
+msgstr "Legen Sie Ihr Passwort fest"
+
+#: Donate.form:40
+msgid "Support me to offer free programs for Deepin Linux"
+msgstr "Unterstützen Sie mich dabei, kostenlose Programme für Deepin Linux anzubieten"
+
+#: FMain.form:260
+msgid "Tags"
+msgstr "Schlagworte"
+
+# gb-ignore
+#: FollowMe.form:116
+msgid "Telegram"
+msgstr ""
+
+#: FMain.form:136
+msgid "Texte (*.txt)"
+msgstr "Texte (*.txt)"
+
+#: FMain.class:337 Reglages.class:41
+msgid "The database has been cleaned up."
+msgstr "Die Datenbank wurde bereinigt."
+
+#: FMain.class:262
+msgid "The entry to be deleted must first be selected."
+msgstr "Der zu löschende Eintrag muss zunächst ausgewählt werden."
+
+#: Protect.class:25
+msgid "The password has been successfully saved."
+msgstr "Das Passwort wurde erfolgreich gespeichert."
+
+#: FMain.form:247
+msgid "Title"
+msgstr "Titel"
+
+#: FMain.form:106
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: FMain.form:161
+msgid "Vacuum"
+msgstr "Vakuum"
+
+#: frmAbout.form:47
+msgid "Version"
+msgstr "Version"
+
+#: FMain.form:172
+msgid "Website"
+msgstr "Webseite"
+
+#: FMain.form:141
+msgid "Word (*.docx)"
+msgstr "Word (*.docx)"
+
+#: FMain.class:201
+msgid "Write your note here..."
+msgstr "Schreiben Sie hier Ihre Notiz..."
+
+#: AskPWD.class:25 UnProtect.class:29
+msgid "Wrong password !"
+msgstr "Falsches Passwort!"
+
+#: FollowMe.form:71
+msgid "X"
+msgstr "X"
+
+#: FMain.class:267
+msgid "Yes"
+msgstr "Ja"
+
+#: FMain.class:779
+msgid "You must enter a field to search for."
+msgstr "Sie müssen ein Suchfeld eingeben."
+
+#: FMain.class:352
+msgid "You must first select an entry."
+msgstr "Sie müssen zunächst einen Eintrag auswählen."
+
+#: FMain.class:410
+msgid "You must first select an entry.."
+msgstr "Sie müssen zunächst einen Eintrag auswählen."
+
+#: FMain.class:416
+msgid "You must have the <b>pandoc</b> program installed to perform this action.."
+msgstr "Um diese Aktion ausführen zu können, muss das Programm <b>pandoc</b> installiert sein."
+
+#: FMain.class:145
+msgid "You must select an entry first."
+msgstr "Sie müssen zunächst einen Eintrag auswählen."
+
+#: FMain.class:198
+msgid "Your title here..."
+msgstr "Ihr Titel hier..."
+
